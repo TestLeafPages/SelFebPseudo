@@ -1,17 +1,16 @@
 // Insert elements to the TreeMap
+Input:
+Employee Info:
 
-Input : treemap.put("1", "Welcome");
-             treemap.put("2", "to");
-             treemap.put("3", "TestLeaf");
-             
+Emp_id|Emp_name
+100	Hari
+101     Naveen
+102	Sam
+104	Balaji
 
-// Elements should be printed in reverse order of their insertion
+OutPut: Print Employee info in reverse order based on Emp_d
 
-Output : 3: TestLeaf
-         2: to
-         1: Welcome
 
-Psuedo Code
 
 
 		

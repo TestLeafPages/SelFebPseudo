@@ -1,0 +1,14 @@
+1) Go to https://www.makemytrip.com/
+2) Click Hotels
+3) Enter city as Goa, and choose Goa, India
+4) Enter Check in date as May 15 and Check out as May 30
+5) Click on ROOMS & GUESTS and click 2 Adults and one Children. Click Apply Button.
+6) Click Search button
+7) Select 5 start in Star Category under Select Filters
+8) Click Show More under Facility and select Restaurant and Wi-Fi
+9) Click on the first resulting hotle and go to the new window
+10) Click MORE OPTIONS link and Select 3Months plan.
+11) Print the Plan of lowest Annual Interset and click close
+12) Print the Tariff Inclusions
+13) Print the resort name and check with the page title.
+14) Close the browser  

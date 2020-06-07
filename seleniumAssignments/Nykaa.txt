@@ -1,0 +1,12 @@
+1) Go to https://www.nykaa.com/
+2) Mouseover on Brands and Mouseover on Popular
+3) Click L'Oreal Paris
+4) Go to the newly opened window and check the title contains L'Oreal Paris
+5) Click sort By and select customer top rated
+6) Click Category and click Shampoo
+7) check whether the Filter is applied with Shampoo
+8) Click the first listed item
+9) GO to the new window and click add to bag
+10) Go to Shopping Bag and click Proceed
+11) Click next and print the error message 
+12) Close the browser

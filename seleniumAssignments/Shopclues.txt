@@ -1,0 +1,14 @@
+1) Go to https://www.shopclues.com/
+2) Mouseover on women and click Casual Shoes
+3) Select Color as Black
+4) Check whether the product name contains the word black
+5) If so, add the product name and price in to Map
+6) Check Display the count of shoes which are more than 500 rupees
+7) Click the highest price of the shoe
+8) Get the current page URL and check with the product ID
+9) Copy the offercode 
+10) Select size, color and click ADD TO CART
+11) Mouse over on Shopping cart and click View Cart 
+12) Type Pincode as 600016 click Submit and Place Order
+13) Close the Browser
+

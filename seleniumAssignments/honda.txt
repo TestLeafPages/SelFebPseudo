@@ -1,0 +1,14 @@
+1) Go to https://www.honda2wheelersindia.com/
+2) Click on scooters and click dio
+3) Click on Specifications and mouseover on Engine
+4) Put all the details as key and value into Map
+5) Go to Scooters and click Activa 125
+6) Put All its Engine Specification into another Map same as like dio
+7) Compare Dio and Activa Maps and print the different values of the samekeys.
+9) Click FAQ from Menu and Click dio under Browse By Product
+10) Click  Vehicle Price and Select scooter, Dio BS-VI from the dropdown and click submit
+11) click the price link,  Go to the new Window and select the state, city
+12) Print the price and model 
+13) Click Product Enquiry and Fill all the * field except Mobile, check the terms and conditions box and click submit
+14) Verify the error message under the mobile number field.
+15) Close the Browser

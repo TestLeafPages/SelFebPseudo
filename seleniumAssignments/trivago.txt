@@ -1,0 +1,16 @@
+1) Go to https://www.trivago.com/
+2) Type Agra in Destination and select Agra, Uttar Pradesh.
+3) Choose May 15 as check in and May 30 as check out
+4) Select Room as Family Room
+5) Choose Number of Adults 2, Childern 1 and set Child's Age as 4
+6) Click Confirm button and click Search
+7) Select Accommodation type as Hotels only and choose 4 stars
+8) Select Guest rating as Very Good
+9) Set Hotel Location as Agra Fort and click Done
+10) In more Filters, select Air conditioning, Restaurant and WiFi and click Done
+11) Sort the result as Rating & Recommended
+12) Print the Hotel name, Rating, Number of Reviews and Click View Deal
+13) Print the URL of the Page
+14) Print the Price of the Room and click Choose Your Room
+15) Click Reserve and I'll Reserve
+16) Close the browser

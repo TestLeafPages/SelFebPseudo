@@ -1,0 +1,14 @@
+1) Go to https://demo.mifos.io/
+2) Mouseover on Clients click clients and click Create Client
+3) Choose office as Main Head Office Staff as Employee, Tester and fill First name, Last Name
+4) Set Leagal Form as Person, Client type as Individual, Gender, Client classification
+5) Click Open Savings account, set Simple Savings Account and click Proceed
+6) Set test as Individual, BA01 in A1, click Proceed and click Submit
+7) Go to side menus and click on Add Journal Entry
+8) Set office as Main Head Office, Currency as Indian, Select Debit and Amount as 50,000 next to debit field
+9) Set Credit and Amount as 50,000 Set ransaction date as current date
+10) Click + in Show Payment Details, set Payment type as Cash and click Sumit
+11) Click on Entry Id Capture the Office and Account and Transaction , Click Cancel
+12) Click Accounting form menu and click Search Journal Entries
+13) Set the captured Account Name, Office date and click Search
+14) Ensure the Account is created with Entry ID

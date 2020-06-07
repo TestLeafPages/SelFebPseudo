@@ -1,0 +1,12 @@
+1) Go to https://www.zalando.com/
+2) Get the Alert text and print it
+3) Close the Alert box and click on Zalando.uk
+4) Mouse over on FREE DELIVERY & RETURNS* get the text and print it
+5) Mouse over on Clothing and click Coat under WOMEN
+6) Choose Material as cotton and Length as thigh-length
+7) Click the first result choose the color and size if available
+8) Get the page title and match with the product brand, name, color and the page url
+9) Click Add to Bag and click on FREE DELIVERY & RETURNS* on the top of the page
+10) Click on Start chat in the Start chat and go to the new window
+11) Enter you first name and a dummy email and click Start Chat
+12) Type Hi, click Send and print thr reply message and close the chat window.

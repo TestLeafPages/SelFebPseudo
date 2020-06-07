@@ -1,0 +1,15 @@
+1) Go to https://www.snapdeal.com/
+‎2) Mouse over on Toys, Kids' Fashion & more and click on Toys
+3) Click Educational Toys in Toys & Games
+‎4) Click the Customer Rating 4 star and Up and Click the offer as 40-50
+5) Click the Quick View of the first product and verify the customer rate is more than 4
+6) Capture the price in a variable named price
+7) Close the Quick view, click on the product and go to the new window
+8) Click ADD TO CART button
+9) Go to the previous window and click on sanitizer
+10) click Hand Sanitizer under type
+11) Go to the new window Click Add to cart Button
+12) Click Cart and enter the pincode as 600032 and print the error message
+13) Remove the Hand Sanitizer from the cart and add the Delivery Charges to the price and match final amount
+14) Close the shopping cart and close the browser
+

@@ -1,0 +1,11 @@
+1) Go to https://www.airbnb.co.in/
+2) Type Goa in location and select Goa Beach, Baga
+3) Select 2 Adults, one kid in Guest field and  click search
+4) Select Hotel Room as type of place and Price as minimum 1000 , maximum as 10000
+5) Click More filters add bed as 2, bedroom as one and click show stays
+6) Click the first result and go to the new window
+7) Capture the Price for one night
+8) Under Select check-in date, choose check in date after 45 days from now and checkout date as 5 days after
+9) Check your chosen date is selected above reserve button
+10) Calculate the one night price x 5 days which is displayed in the page is match
+11)  Close the browser.

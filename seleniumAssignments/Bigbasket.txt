@@ -1,0 +1,13 @@
+1) Go to https://www.bigbasket.com/
+2) mouse over on  Shop by Category 
+3) Go to Beverages and Fruit juices & Drinks
+4) Click on JUICES
+5) click Tropicana and Real under Brand
+6) Check count of the products from each Brands and total count
+6) Check whether the products is availabe with Add button.
+7) Add the First listed available product 
+8) click on Change Address 
+9) Select CHennai as City, Alandur-600016,Chennai as Area  and click Continue
+10) Mouse over on My Basket print the product name. count and price.
+11) Click View Basker and Checkout
+12) Click the close button and close the browser

@@ -1,0 +1,15 @@
+1) Go to https://store.hp.com/in-en/
+2) Mouse over on Laptops menu and click on Pavilion
+3) Under SHOPPING OPTIONS click Hard Drive Capacity as More than 1 TB
+4) Select Features as Touchscreen
+3) Click the first 3 products to compare option
+5) Click Compare Now button in Compare Products.
+6) Go to the newly opened window and print the highest price and laptop name using MAP	
+7) Using Webtable,
+	* print the Lowest memory and the laptop name
+	* Highest Hard drive description and Laptop name
+	* Print the laptop name which has NVIDIA® GeForce as Graphics
+8) Click the Add to cart button which laptop has lowest price
+9)Click the shopping cort icon and click view and edi cart button
+10) Enter the pincode in Check availability at as and click check
+11) Print the message and close the browser

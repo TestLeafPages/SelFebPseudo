@@ -1,0 +1,12 @@
+1) Go to https://www.ajio.com/
+2) Mouseover on Women, CATEGORIES and click on Kurtas
+3) Click on Brands and choose Ajio
+4) Check all the results are Ajio
+5) Set Sort by the result as Discount
+6) Select the Color and click ADD TO BAG
+7) Verify the error message Select your size to know your estimated delivery date
+8) Select size and click ADD TO BAG
+9) click on Enter pin-code to know estimated delivery date
+10) Enter the pincode as 603103 and click Confirm pincode
+11) Print the message and click Go to  Bag
+12) Click on Proceed to Shipping and clode the browser

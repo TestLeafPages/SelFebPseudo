@@ -1,0 +1,79 @@
+1. Which method should I use to convert String "welcome to the beautiful world of python" to "Welcome To The Beautiful World of Python"
+
+ capitalize()
+ title()
+
+Ans : title()
+
+2. Guess the correct output of the following String operations
+
+str1 = 'Welcome'
+print(str1*2)
+
+WelcomeWelcome
+TypeError: unsupported operand type(s) for * or pow(): ‘str’ and ‘int’
+
+Ans: WelcomeWelcome
+
+3. Python does not support a character type; a single character is treated as strings of length one.
+
+  False
+  True
+
+Ans: True
+
+4. What is String Literals?
+	
+     String literals are constructed by enclosing the text in the single or double-quotes. Example: “Jack”, ‘12345’.
+
+5. Explain the use of the split function in Python?
+    
+    The Split function is used in Python for breaking a string to a shorter one by using a defined separator.
+
+6. How will you capitalizes first letter of string?
+   
+    capitalize() 
+
+7. How to merge the elements in a sequence?
+
+   join(seq) 
+
+8. Which function helps to remove all leading whitespace in string?
+
+  lstrip()
+
+9. Write a program to find the length of the string "refrigerator" without using len function.
+
+	a = "refrigerator"
+	count = 0
+	for i in a:
+  	  count = count+1
+	print count
+
+10. What is the output of the following code ?
+
+	example = "snow world"
+	example[3] = 's'
+	print example
+
+Answer: Error. Strings cannot be modified.
+
+11. What is the output of the following?  
+    print('*', "abcdef".center(7), '*')
+
+Answer: * abcdef *
+
+12. What is the output of the following?
+print("Hello {1} and {0}".format('bin', 'foo'))
+
+Answer: Hello foo and bin
+
+13. What will be the output of below Python code?
+
+    str1="Aplication"
+    str2=str1.replace('a','A')
+    print(str2)
+
+Answer : ApplicAtion
+
+

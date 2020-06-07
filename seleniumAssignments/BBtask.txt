@@ -1,0 +1,17 @@
+1) Go to https://www.bigbasket.com/
+2) mouse over on  Shop by Category 
+3)Go to FOODGRAINS, OIL & MASALA and RICE & RICE PRODUCTS 
+4) Click on BOILED & STEAM RICE
+5) Get the URL of the page and check eith with site navigation link(HOME > FOODGRAINS, OIL & MASALA> RICE & RICE PRODUCTS> BOILED & STEAM RICE)
+6) Choose the Brand as bb Royal
+7) Go to Ponni Boiled Rice and select 10kg bag from Dropdown
+8) Click Add button
+9) Go to search box and type Dal
+10) Add Toor/Arhar Dal 2kg and set Qty 2 from the list
+11) click Address 
+12) Select CHennai as City, Alandur-600016,Chennai as Area  and click Continue
+13) Mouse over on My Basket take a screen shot
+14) Click View Basket and Checkout
+15) Click the close button and close the browser
+
+

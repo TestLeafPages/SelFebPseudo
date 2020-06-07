@@ -1,0 +1,11 @@
+1) open https://www.shein.in/
+2) Mouseover on Clothing and click Jeans
+3) Choose Black under Jeans product count
+4) check size as medium
+5) Click + in color
+6) check whether the color is black
+7) Click first item to Add to Bag 
+8) Click the size as M abd click Submit
+9) Click view Bag 
+10) Check the size is Medium or not.
+11) Close the browser.

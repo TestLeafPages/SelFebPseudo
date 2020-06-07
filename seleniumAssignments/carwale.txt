@@ -1,0 +1,12 @@
+1) Go to https://www.carwale.com/
+2) Mouse over on USED CARS and click All Used Cars
+3) Set Budget Min as 4L and Max as 8L
+4) Sort the result based on Year: Newest to Oldest 
+5) Click heart symbol of First 6 cars and click compare
+6) Take cars price in a list
+6) Based on the highest price from the list arrange the cars by Drag and drop 
+9) Capture the 3rd car name and close the compare box
+10) Click compare under the captured car name
+11) Get all the car name and km in a Map and Click the least km car name
+12) Go to the new window and match the km
+13) Close the browser.

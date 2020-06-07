@@ -1,0 +1,15 @@
+1) Go to https://www.pepperfry.com/
+2) Mouseover on Homeware and click Dinner Sets under Serveware
+3) click Melamine Dinner Sets under All Dinner Sets
+4) Take the title of all the resulting dinner sets and separate the name and number of pieces
+5) Click the highest pieces dinner set and click Add to cart
+6) Mouse over on Living and click sofa sets
+7) Count the number sofas under All Sofa Sets and check with the results of sofa sets and Sofa Brands counts
+8) Click the first resulting sofa and go the the new window
+9) Check the availability by giving 603103 in to pincode and click Go
+10) Capture the price in a variable
+11) Click Add to cart and Go to cart 
+12) Go to the new Window and Delete the Dinner set from the cart
+13) Capture the Final price of the Sofa set
+14) print the difrence between the final and before add to cart price
+ 

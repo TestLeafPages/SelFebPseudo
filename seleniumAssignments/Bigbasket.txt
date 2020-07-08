@@ -9,5 +9,5 @@
 8) click on Change Address 
 9) Select CHennai as City, Alandur-600016,Chennai as Area  and click Continue
 10) Mouse over on My Basket print the product name. count and price.
-11) Click View Basker and Checkout
+11) Click View Basket and Checkout
 12) Click the close button and close the browser

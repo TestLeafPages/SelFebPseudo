@@ -1,0 +1,12 @@
+1. Go to https://www.postman.com/
+2. Click on Sign In 
+3. Give User name as DhivyaTestleaf and Password as India@123
+4. Click Sign in
+5. Click on New and Click Collection
+6. Give Collection Name and Description
+7. Click Create.
+8. Click on newly created collection's view more actions icon 
+9. Click on Add Request
+10. Give request Name and Description
+11. Click on Save to collection
+12. Click on collection and verify the request has created.

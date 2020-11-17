@@ -1,0 +1,13 @@
+1. Go to https://paytmmall.com/
+2. Click on Shop by catogery
+3. Mouse over on TVs & Appliances and click on Air Purifiers under Home Appliances
+4. Set the price as minimum 5000 and max 15000
+5. sort the product by popular
+6. click on the first product and go to the new window
+7. Click on Select EMI
+8. Get the first 6 bank's EMI amount and Total Interest amount for 9 months and add it into Map
+9. Pick the least EMI amount and verify the total interest amount(EMI amount * 9m -(original cost))
+10. Select the least EMI amount and close EMI tab
+11. Click on view more offers and select the highest amount and verify 
+12. Click on Buy Now and close the browser
+  

@@ -1,0 +1,9 @@
+1. Launch firefox browser
+2. Go to "https://www.flipkart.com/"
+3. Search for Home Theaters
+4. Choose customer ratings 4* and above
+5. Confirm showing result count reduced after selection
+6. Click price High to Low and confirm if it is Blue upon click
+7. Confirm all the displayed products are sorted by price
+8. Select any 2 products for compare 
+9. Click compare and confirm both are displayed on compare screen

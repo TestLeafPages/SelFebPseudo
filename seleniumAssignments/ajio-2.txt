@@ -1,0 +1,8 @@
+1. Launch Chrome browser
+2. Go to "https://www.ajio.com/"
+3. Mouse over on "Women" and mouse over on "Brands"
+4. Click the link that has most number of lower case characters
+5. Print and store number of items
+6. Expand Size and Fit and choose 'S'
+7. Confirm the number of items have reduced the previous results
+8. Sort by Discount and confirm results are sorted  by higher discounts first

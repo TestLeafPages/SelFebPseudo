@@ -1,0 +1,11 @@
+1. Launch Chrome browser(Headless mode)
+2. Go to "https://www.zomato.com/chennai"
+3. Select Velachery and Type 'A2B - Adyar Anada Bhavan' in the restaurant/cuisine textbox
+4. Choose the last listed option in auto suggested
+5. Click order online and print if the restaurant is open or closed for delivery
+6. Print the number of 'Must Try' items listed
+7. Print the costliest sweet in that page
+8. Click on photos and validate the number of photos listed matches the total number
+   images displayed across the listed pages.
+
+

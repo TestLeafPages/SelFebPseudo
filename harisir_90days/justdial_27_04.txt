@@ -5,7 +5,7 @@
 3) Click Auto Care in the left menu
 4) Click Car Repair
 5) Click Car Brand as Hyundai
-6) Click Make as Hyundai Xcent
+6) Click Make as Hyundai Xcent & click on all options
 7) Click on Location and Enter Porur
 8) Select Porur from the dropdown list
 9) Select Distance starting from 1 km
